@@ -31,9 +31,6 @@
 ## 🚀 Projects I'm Working On
 ### 🔥 **Main Projects**
 - 🌍 [**MudForge**](https://github.com/Eray594/MudForge) – **A Blazor Component Library inspired by ShadCN UI**
-- 🚀 **[Ozxane](https://github.com/Eray594)** – My collection of personal software projects
-- 🎓 **React Academy** – Interactive learning platform for React & TypeScript (WIP)
-
 ---
 
 ## 📚 Currently Learning
