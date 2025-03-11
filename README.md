@@ -30,7 +30,7 @@
 
 ## 🚀 Projects I'm Working On
 ### 🔥 **Main Projects**
-- 🌍 [**MudForge**](https://github.com/Eray594/MudForge) – **A Blazor Component Library inspired by ShadCN UI**
+- 🌍 [**MudForge**](https://github.com/Eray594/MudForge) – **MudForge is an open-source library that simplifies common Blazor tasks like theming and localization, reducing repetitive setup while integrating seamlessly with MudBlazor.**
 ---
 
 ## 📚 Currently Learning
