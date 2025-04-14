@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Eray Kaan Cevik</h1>
 
 <p align="center">
-  <b>17-year-old Software Developer from Switzerland 🇨🇭</b>  
+  <b>18-year-old Software Developer from Switzerland 🇨🇭</b>  
   <br>
   Passionate about clean code, software architecture & performance. 🚀  
   Currently focused on <strong>Rust, C# & TypeScript</strong>.  
