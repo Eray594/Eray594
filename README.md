@@ -36,9 +36,6 @@
 ## 📚 Currently Learning
 - **Rust 🦀** – Deep diving into systems programming & performance optimization
 - **Advanced Blazor & .NET Core** – Working on **MudForge**
-- **Low-Level Performance Optimization** – How to make code truly fast 🚀
-- **Scalability & Software Architecture** – Designing better systems
-
 ---
 
 ## 📊 GitHub Stats
